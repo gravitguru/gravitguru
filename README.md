@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://gravitguru.surge.sh)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://gravitguru.surge.sh)
 <h1 align="center">Hi 👋, I'm Gravit Guru</h1>
 <h3 align="center">Full Stack Developer || UI&UX Designer</h3>
 
