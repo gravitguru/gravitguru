@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gravitguru&label=Profile%20views&color=0e75b6&style=flat" alt="gravitguru" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gravitguru" alt="gravitguru" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://twitter.com/gravitguru" target="blank"><img src="https://img.shields.io/twitter/follow/gravitguru?logo=twitter&style=for-the-badge" alt="gravitguru" /></a> </p>
 
 - 🔭 I’m currently working on [Technical Screener](techscreen.surge.sh/)
