@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <a href="https://twitter.com/gravitguru" target="blank"><img src="https://img.shields.io/twitter/follow/gravitguru?logo=twitter&style=for-the-badge" alt="gravitguru" /></a> </p>
 
-- 🔭 I’m currently working on [Technical Screener](techscreen.surge.sh/)
+- 🔭 I’m currently working on [Three js]
 
 - 🌱 I’m currently learning **React Native, Ionic**
 
